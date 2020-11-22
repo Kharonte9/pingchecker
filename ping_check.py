@@ -1,5 +1,5 @@
 #Autor: eduar766
-#Modificaciones basicas por Knock
+#Modificaciones basicas por Kharonte
 
 from requests import get, exceptions   
 from colorama import Fore, init    
